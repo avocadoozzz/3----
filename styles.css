@@ -43,6 +43,7 @@ body {
     background-color: #575757;
 }
 
+/* Кнопка "Book Now" */
 .btn.book-now {
     background-color: #f04e23;
     color: #fff;
@@ -58,7 +59,7 @@ body {
 
 /* Стили для секции hero */
 .hero {
-    background-image: url('photo/hero-background.jpg');
+    background-image: url('photo/image.png');
     background-size: cover;
     color: #fff;
     padding: 100px 0;
@@ -128,7 +129,7 @@ body {
     font-size: 16px;
 }
 
-/* Стили для about секции */
+/* Стили для секции About */
 .about {
     background-color: #f4f4f4;
     padding: 50px 0;
@@ -163,7 +164,7 @@ body {
     border-radius: 10px;
 }
 
-/* Стили для секции features */
+/* Стили для секции Features */
 .features {
     padding: 50px 0;
     text-align: center;
@@ -198,7 +199,7 @@ body {
     margin-bottom: 10px;
 }
 
-/* Стили для секции gallery */
+/* Стили для секции Gallery */
 .gallery {
     background-color: #f4f4f4;
     padding: 50px 0;
@@ -236,7 +237,7 @@ body {
     border-radius: 0 0 10px 10px;
 }
 
-/* Testimonials Section */
+/* Стили для секции Testimonials */
 .testimonials {
     padding: 50px 0;
     background-color: #f4f4f4;
