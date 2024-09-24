@@ -22,7 +22,6 @@ document.addEventListener("DOMContentLoaded", function() {
             alert("Room booking initiated for: " + button.closest('.gallery-item, .room-card').querySelector('h3').textContent);
         });
     });
-
     // Функциональность для формы подписки
     const subscribeBtn = document.querySelector(".footer .subscribe .btn");
     subscribeBtn.addEventListener("click", function(event) {
