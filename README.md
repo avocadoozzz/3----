@@ -1,2 +1,2 @@
 
-[Мой сайт на GitHub](https://avocadoozzz.github.io/3----/index.html) 
+[Мой сайт на GitHub](https://avocadoozzz.github.io/3LABA/index.html) 
